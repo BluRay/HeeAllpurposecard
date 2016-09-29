@@ -1,0 +1,232 @@
+[Root]
+Most Recent Package=IC卡智能水表管理系统
+
+
+[Package|IC卡智能水表管理系统|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\WaTerSETUP
+
+[Package|IC卡智能水表管理系统|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|IC卡智能水表管理系统|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|IC卡智能水表管理系统|Files Found]
+CRXLAT32.DLL=D:\IC卡智能水表管理系统\SETUP\CRXLAT32.DLL
+
+[Package|IC卡智能水表管理系统|Files Released]
+CC245CHS.DLL=
+CR2C40CHS.DLL=
+U2FXLS.DLL=
+U2FWORDW.DLL=
+U2FWKS.DLL=
+U2FTEXT.DLL=
+U2FSEPV.DLL=
+U2FRTF.DLL=
+U2FREC.DLL=
+U2FHTML.DLL=
+U2FDIF.DLL=
+U2FCR.DLL=
+U2DMAPI.DLL=
+X3D4DKCHS.DLL=
+P3S4ODCHS.DLL=
+P3RDAOCHS.DLL=
+P3CDAOCHS.DLL=
+P3BDAOCHS.DLL=
+P3D4BDCHS.DLL=
+mwic32.dll=
+
+[Package|IC卡智能水表管理系统|Missing Dependency Information]
+C:\WINDOWS\system32\MSEXCH35.DLL=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\DESIGNER\MSDE.DLL=
+C:\WINDOWS\system32\actskn43.ocx=
+C:\WINDOWS\system32\MSBIND.DLL=
+C:\WINDOWS\system32\MSDE.DLL=
+
+[Package|IC卡智能水表管理系统|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\crystl32.ocx=
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\COMCTL32.OCX=
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+C:\WINDOWS\system32\TABCTL32.OCX=
+
+[Package|IC卡智能水表管理系统|Files Added]
+d:\ic卡智能水表管理系统070909\ic卡智能水表管理系统\b-studio.skn=
+d:\ic卡智能水表管理系统070909\ic卡智能水表管理系统\bgpic.jpg=
+
+[Package|IC卡智能水表管理系统|Files Removed]
+
+[Package|IC卡智能水表管理系统|Files In Project]
+C:\WINDOWS\system32\Msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20CHS.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\CONNDCHS.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTCHS.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDCHS.DLL=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\CMCTLCHS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\actskn43.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGCHS.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\DBRPRCHS.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\IC卡智能水电管理系统.exe=Yes
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\Mwic_32.dll=Yes
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\ICWT.hlp=Yes
+C:\WINDOWS\system32\MSDE.DLL=Yes
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\B-Studio.skn=Yes
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\bgpic.jpg=Yes
+
+[Package|IC卡智能水表管理系统|Configure Registry Files]
+Applicable=No
+
+[Package|IC卡智能水表管理系统|Configure Remote Servers]
+Applicable=No
+
+[Package|IC卡智能水表管理系统|Install Locations]
+D:\IC卡智能水表管理系统\IC卡智能水表管理系统.exe=$(AppPath)
+C:\WINDOWS\system32\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mwic32.dll=$(AppPath)
+D:\IC卡智能水表管理系统\Mwic_32.dll=$(AppPath)
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20CHS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\CONNDCHS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\pg32.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+D:\IC卡智能水表管理系统\SETUP\CRXLAT32.DLL=$(WinPath)\Crystal
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2ddisk.dll=$(WinPath)\Crystal
+D:\IC卡智能水表管理系统\ICWT.hlp=$(AppPath)
+C:\WINNT\System32\msexcl35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINNT\System32\msltus35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINNT\System32\mstext35.dll=$(WinSysPathSysFile)
+C:\WINNT\System32\msxbse35.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\actskn43.ocx=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+D:\IC卡智能水表管理系统\IC卡智能水电管理系统.exe=$(AppPath)
+C:\WINDOWS\system32\STDFTCHS.DLL=$(WinSysPath)
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\IC卡智能水电管理系统.exe=$(AppPath)
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\Mwic_32.dll=$(AppPath)
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\ICWT.hlp=$(AppPath)
+C:\WINDOWS\system32\MSDE.DLL=$(WinSysPath)
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\B-Studio.skn=$(AppPath)
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\bgpic.jpg=$(AppPath)
+
+[Package|IC卡智能水表管理系统|Configure Shared Files]
+Applicable=Yes
+D:\IC卡智能水表管理系统\IC卡智能水表管理系统.exe=No
+C:\WINDOWS\system32\mwic32.dll=Yes
+D:\IC卡智能水表管理系统\Mwic_32.dll=Yes
+D:\IC卡智能水表管理系统\ICWT.hlp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\IC卡智能水表管理系统\IC卡智能水电管理系统.exe=No
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\IC卡智能水电管理系统.exe=No
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\Mwic_32.dll=No
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\ICWT.hlp=No
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\B-Studio.skn=No
+D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统\bgpic.jpg=No
+
+[Package|IC卡智能水表管理系统|Distribution]
+Type=single
+Size=
+Title=IC卡智能水表管理系统
+
+[Package|IC卡智能水表管理系统|Package]
+PackageFolder=D:\WaTerSETUP
+ProjectFolder=D:\IC卡智能水表管理系统070909\IC卡智能水表管理系统
+ServerSideCab=
+File1=D:\WaTerSETUP\setup.exe
+File2=D:\WaTerSETUP\Setup.Lst
+File3=D:\WaTerSETUP\IC卡智能水电管理系统.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|IC卡智能水表管理系统|IconGroups]
+Group0=IC卡智能水表管理系统
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|IC卡智能水表管理系统|IC卡智能水表管理系统]
+Icon1=IC卡智能水电管理系统.exe
+Title1=IC卡智能水表管理系统
+StartIn1=$(AppPath)
+Key1=Icon1
